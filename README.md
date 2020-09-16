@@ -1,6 +1,6 @@
 # TestRepos
 # IBM Course
 
-## Editing the fille
+## Editing the file
 
-Its a MArkdown file in this reporitory.
+Its a Markdown file in this reporitory.
